@@ -1,1 +1,1 @@
-# python-discord-doxxing-tool
+# Python Discord Information Grabbing Tool
